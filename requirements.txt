@@ -1,0 +1,8 @@
+anthropic==0.96.0
+streamlit==1.56.0
+streamlit-folium==0.27.1
+folium==0.20.0
+pandas
+requests
+python-dotenv
+geopy
